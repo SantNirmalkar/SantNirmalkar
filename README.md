@@ -8,7 +8,7 @@
 - 🌱 Currently learning **Data Analytics, SQL, JavaScript & Web Development**
 - 💡 Interested in **Data Analysis, Web Apps & Open-Source**
 - 📈 Love turning **data into insights** and **ideas into code**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **star.santnirmal24@gmail.com**
 
 ---
 
@@ -28,13 +28,13 @@
 
 ### 📂 Featured Projects
 - 🔹 **Project Name** – Short description of what it does  
-  👉 [Repository Link](#)
+  👉 [Repository Link- https://github.com/SantNirmalkar?tab=repositories](#)
 
 - 🔹 **Project Name** – Tech used (HTML, CSS, JS, SQL, etc.)  
-  👉 [Repository Link](#)
+  👉 [Repository Link- https://github.com/SantNirmalkar?tab=repositories](#)
 
 - 🔹 **Project Name** – Problem solved / skills showcased  
-  👉 [Repository Link](#)
+  👉 [Repository Link- https://github.com/SantNirmalkar?tab=repositories](#)
 
 ---
 
@@ -57,9 +57,9 @@
 ---
 
 ### 🌐 Connect With Me
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-link)
+- 💼 LinkedIn: sant-nirmalkar(https://www.linkedin.com/in/sant-nirmalkar-154803238)
 - 🧑‍💻 GitHub: [SantNirmalkar](https://github.com/SantNirmalkar)
-- 📧 Email: your-email@example.com
+- 📧 Email: star.santnirmal24@gmail.com
 
 ---
 
