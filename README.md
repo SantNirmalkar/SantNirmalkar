@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a student just passed out in year 2025 and currently learning about Data analyst and i have experience and prior knowledge about front end development
+I'm 2025 POY and currently learning about Data analyst and i have experience and prior knowledge about front end development
 
 
 ## 🌐 Socials:
